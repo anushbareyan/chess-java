@@ -30,5 +30,6 @@ The project structure is organized into different packages:
 
 https://github.com/anushbareyan/chess-java/assets/122983285/dffdf9c2-e6c2-426e-9f11-8985aa4c8561
 
-##UML
+
+## UML
 ![UMLChess](https://github.com/anushbareyan/chess-java/assets/122983285/ee3fdffa-ab55-41ec-a14e-38de3ddfb0f8)
